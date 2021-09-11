@@ -57,9 +57,9 @@ We are a dynamic research group as a part of Photoelectric measurement and Analy
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
-We are located at CUST, the birthplace of optical engineering in China and home to [Wang Daheng](https://en.wikipedia.org/wiki/Wang_Daheng). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at CUST, the birthplace of optical engineering in China. As a part of part of Photoelectric measurement and Analysis Center, we exchange ideas and work with our colleagues on tpoics like Bionic optics, Bionic robot and Computational imaging, as well as other interesting yet challenging topics.
 
- **We are  looking for passionate new Lecturer, Master and Undergrate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for passionate new Lecturer, Master and Undergrate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
