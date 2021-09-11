@@ -1,7 +1,7 @@
 ---
-title:Courses
+title:"Courses"
 layout:textlay
-excerpt:Courses
+excerpt:"Courses"
 sitemap:false
 permalink:/courses/
 ---
