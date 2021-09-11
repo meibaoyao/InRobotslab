@@ -1,0 +1,19 @@
+- title: "XXX"
+  meeting: XXX
+  presenter: XXX
+  date: Dec 11, 2019
+  location: XX, XX, XXX
+  invited_talk: 0
+
+- title: "XXX"
+  meeting: XX
+  presenter: XX
+  date: XX, XX, XX
+  location: Online
+  invited_talk: 1
+  
+- title: "XX"
+  meeting: XX
+  presenter: XX
+  date: XX, XX, XX
+  location: XXX, XX, XX
