@@ -1,9 +1,9 @@
 ---
-title:"Presentations"	
-layout:gridlay
-excerpt:"Presentations"
-sitemap:false
-permalink:/presentations/
+title: "Presentations"
+layout: gridlay
+excerpt: "Presentations"
+sitemap: false
+permalink: /presentations/
 ---
 
 {% for talk in site.data.presentationlist %}
