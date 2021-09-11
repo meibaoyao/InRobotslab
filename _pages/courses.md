@@ -1,4 +1,4 @@
-----
+---
 title:Courses
 layout:textlay
 excerpt:Courses
