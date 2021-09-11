@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [CUST](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots. Research in this group mainly concerned with solving problems that require a mixture of computer vision, mechanics and robots to adapt to unknown and dynamic situations and boost collaboration between people and devices.
+We are a dynamic research group as a part of Photoelectric measurement and Analysis Center at the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots. Research in this group mainly concerned with solving problems that require a mixture of computer vision, mechanics and robots to adapt to unknown and dynamic situations and boost collaboration between people and devices.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -57,7 +57,7 @@ We are a dynamic research group at the [CUST](http://sie.cust.edu.cn/). Our aim 
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at CUST, the birthplace of optical engineering in China and home to [Wang Daheng](https://en.wikipedia.org/wiki/Wang_Daheng). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
