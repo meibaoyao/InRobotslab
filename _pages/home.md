@@ -62,6 +62,6 @@ We are located at CUST, the birthplace of optical engineering in China. As a par
  **We are looking for passionate new Lecturer, Master and Undergrate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="second">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cust-logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cust-logo.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/oe.png" style="width: 250px">
 </figure>
