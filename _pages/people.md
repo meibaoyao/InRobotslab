@@ -135,7 +135,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Collaborators
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.collaborator_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
