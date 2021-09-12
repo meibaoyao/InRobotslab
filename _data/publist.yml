@@ -1,20 +1,20 @@
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
+- title: "Robust plane fitting algorithm for landing hazard detection"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  description: An innovative three-dimensional hazard detection algorithm is proposed for a planetary safe landing mission. Typically, plane fitting is carried out to approximate the surface of the planetary terrain. Current state-of-the-art plane estimation methods with a low breakdown point do not meet the requirements of future pinpoint landing missions. In this paper, a novel robust scale estimator called Preprocessing and Double Iterative Median Scale Estimator (PDIMSE) is proposed, which can achieve a breakdown point of more than 50%. It can be applied to future Mars landing missions.
+  authors: Xueming Xiao, Hutao Cui, Yang Tian
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: DOI: 10.1109/TAES.2015.140378
+    display: IEEE Transactions on Aerospace and Electronic Systems, 51(4), 2864-2875.
   highlight: 0
   news2:
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
+- title: "Autonomous rock detection on mars through region contrast"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  description: In this paper, we present a new autonomous rock detection approach through region contrast. Unlike current state-of-art pixel-level rock segmenting methods, new method deals with this issue in region level, which will significantly reduce the computational cost. Image is firstly splitted into homogeneous regions based on intensity information and spatial layout. Considering the high-water memory constraints of onboard flight processor, only low-level features, average intensity and variation of superpixel, are measured. Region contrast is derived as the integration of intensity contrast and smoothness measurement. Rocks are then segmented from the resulting contrast map by an adaptive threshold. Since the merely intensity-based method may cause false detection in background areas with different illuminations from surroundings, a more reliable method is further proposed by introducing spatial factor and background similarity to the region contrast. Spatial factor demonstrates the locality of contrast, while background similarity calculates the probability of each subregion belonging to background. Our method is efficient in dealing with large images and only few parameters are needed. Preliminary experimental results show that our algorithm outperforms edge-based methods in various grayscale rover images.
+  authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yang Tian
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
+    url: https://doi.org/10.1016/j.asr.2017.04.028
+    display: Advances in Space Research, 60(3), 626-635.
   highlight: 1
   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
