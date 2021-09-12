@@ -1,5 +1,5 @@
 - name: Hutao Cui
-  photo: verdoes.jpg
+  photo: htcui.png
   info: Full-time professor
   apt: Deep Space Exploration Research Center, Harbin Institute of Technology
   email: XXX
@@ -10,7 +10,7 @@
   education4:
 
 - name: Yang Tian
-  photo: verdoes.jpg
+  photo: yangtian.png
   info: Associate professor
   apt: Deep Space Exploration Research Center, Harbin Institute of Technology
   email: XXX
@@ -21,7 +21,7 @@
   education4:
   
 - name: Meibao Yao
-  photo: verdoes.jpg
+  photo: mbyao.png
   info: Assistant professor
   apt: College of artificial intelligence, Jilin University
   email: XXX
