@@ -1,7 +1,7 @@
 - name: Hutao Cui
   photo: verdoes.jpg
-  duration: Full-time professor at Harbin Institute of Technology
-  info: Deputy director of Deep Space Exploration Research Center at HIT
+  info: Full-time professor
+  apt: Deep Space Exploration Research Center, Harbin Institute of Technology
   email: XXX
   number_educ: 1
   education1: 
@@ -11,8 +11,8 @@
 
 - name: Yang Tian
   photo: verdoes.jpg
-  duration: Associate professor at Harbin Institute of Technology
-  info: Deep Space Exploration Research Center at HIT
+  info: Associate professor
+  apt: Deep Space Exploration Research Center, Harbin Institute of Technology
   email: XXX
   number_educ: 1
   education1: 
@@ -22,8 +22,8 @@
   
 - name: Meibao Yao
   photo: verdoes.jpg
-  duration: Assistant professor at Jilin University
-  info: College of artificial intelligence
+  info: Assistant professor
+  apt: College of artificial intelligence, Jilin University
   email: XXX
   number_educ: 1
   education1: 
