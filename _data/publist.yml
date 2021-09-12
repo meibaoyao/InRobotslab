@@ -56,3 +56,43 @@
     display:  Acta Astronautica 154, (2019)
   highlight: 0
   news2:
+
+- title: Towards peak torque minimization for modular self-folding robots
+  image: dummy.png
+  description: ""
+  authors: Meibao Yao, Hutao Cui, Xueming Xiao, Christoph H Belke, Jamie Paik
+  link:
+    url: https://doi.org/10.1109/IROS.2018.8593648
+    display:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), (2018)
+  highlight: 0
+  news2:
+  
+- title: Optimal distribution of active modules in reconfiguration planning of modular robots
+  image: dummy.png
+  description: ""
+  authors: Meibao Yao, Xueming Xiao, Christoph H Belke, Hutao Cui, Jamie Paik
+  link:
+    url: https://doi.org/10.1115/1.4041972
+    display:  Journal of Mechanisms and Robotics,11,1 (2019)
+  highlight: 0
+  news2:
+  
+- title: A fast terminal sliding mode control scheme with time-varying sliding mode surfaces
+  image: dummy.png
+  description: ""
+  authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui
+  link:
+    url: https://doi.org/10.1016/j.jfranklin.2021.05.006
+    display:  Journal of the Franklin Institute,358,10 (2021)
+  highlight: 0
+  news2:
+  
+- title: An Actuation Fault Tolerance Approach to Reconfiguration Planning of Modular Self-folding Robots
+  image: dummy.png
+  description: ""
+  authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui, Jamie Paik
+  link:
+    url: https://doi.org/10.1109/ICRA40945.2020.9196574
+    display:  IEEE International Conference on Robotics and Automation (ICRA), (2020)
+  highlight: 0
+  news2:
