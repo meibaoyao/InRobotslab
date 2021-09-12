@@ -1,6 +1,6 @@
 - title: "Robust plane fitting algorithm for landing hazard detection"
   image: TBG_SL.png
-  description: An innovative three-dimensional hazard detection algorithm is proposed for a planetary safe landing mission. Typically, plane fitting is carried out to approximate the surface of the planetary terrain. Current state-of-the-art plane estimation methods with a low breakdown point do not meet the requirements of future pinpoint landing missions. In this paper, a novel robust scale estimator called Preprocessing and Double Iterative Median Scale Estimator (PDIMSE) is proposed, which can achieve a breakdown point of more than 50%. It can be applied to future Mars landing missions.
+  description: An innovative three dimensional hazard detection algorithm is proposed for a planetary safe landing mission. A novel robust scale estimator is proposed, which can achieve a breakdown point of more than 50 percentage.
   authors: Xueming Xiao, Hutao Cui, Yang Tian
   link:
     url: https://doi.org/10.1109/TAES.2015.140378
@@ -20,7 +20,7 @@
 
 - title: "Safe Mars landing strategy: Towards lidar-based high altitude hazard detection"
   image: TiNHigh.png
-  description: This paper presents a high-altitude hazard detection method for Mars landing. Current terminal-triggered methods do not fully support re-targeting maneuvers if all regions are found unsafe. Towards safe landing requirements for future missions, hazard detection should be triggered as soon as possible. We therefore proposed a lidar-based high altitude hazard detection approach, consisting of two main procedures: Terrain reconstruction and Hazard mapping. Morphological filters are first carried out to remove outliers. An interpolation-based terrain reconstruction algorithm is then proposed to model the datum surface of landing region. For hazard mapping, an innovative hazard assessment function is proposed to generate a continuous hazard map that with full hazard information. The new approach is simple but well-performed, and only few parameters are needed. Both synthetic and real data are used to validate the detection performance, and preliminary results show the superiority of the proposed algorithms compared with current plane-based hazard detectors.
+  description: This paper presents a high altitude hazard detection method for Mars landing. Towards safe landing requirements for future missions, hazard detection should be triggered as soon as possible. We therefore proposed a lidar based high altitude hazard detection approach, consisting of two main procedures, Terrain reconstruction and Hazard mapping. An interpolation based terrain reconstruction algorithm is proposed to model the datum surface of landing region.
   authors: Xueming Xiao, Meibao Yao, Hutao Cui, Yuegang Fu
   link:
     url: https://doi.org/10.1016/j.asr.2019.01.005
@@ -29,7 +29,7 @@
 
 - title: "Auto rock detection via sparse-based background modeling for mars rover"
   image: dummy.png
-  description: In this work, we propose a novel auto rock detection scheme via sparse-based background modeling for planetary rover. Instead of pixel-level image processing and pre-training, we deal with the detection issue by region contrast enhancement. Our method consists of a rough detection algorithm to auto-label conservative background regions and a background modeling algorithm to precisely detect rocks. Background is reconstructed in feature space with the labeled regions as dictionary via sparse representation. Contrast map is enhanced by the error of original image and reconstructed background. Afterwards, rock is directly segmented by an auto threshold. Our method is simple yet efficient, primary results show that the proposed algorithm yields highly precise detection results, compared with current state-of-art edge-based algorithms.
+  description: We propose a novel auto rock detection scheme via sparse based background modeling for planetary rover. Instead of pixel level image processing and pre training, we deal with the detection issue by region contrast enhancement. Our method consists of a rough detection algorithm to auto-label conservative background regions and a background modeling algorithm to precisely detect rocks. Background is reconstructed in feature space with the labeled regions as dictionary via sparse representation. Contrast map is enhanced by the error of original image and reconstructed background. Afterwards, rock is directly segmented by an auto threshold. Our method is simple yet efficient, primary results show that the proposed algorithm yields highly precise detection results, compared with current state-of-art edge-based algorithms.
   authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yuegang Fu, Wanqiang Qi
   link:
     url: https://doi.org/10.1109/CEC.2018.8477665
