@@ -28,7 +28,7 @@
   highlight: 1
 
 - title: "Auto rock detection via sparse-based background modeling for mars rover"
-  image: dummy.png
+  image: 5dof.png
   description: We propose a novel auto rock detection scheme via sparse based background modeling for planetary rover. Instead of pixel level image processing and pre training, we deal with the detection issue by region contrast enhancement. Our method consists of a rough detection algorithm to auto-label conservative background regions and a background modeling algorithm to precisely detect rocks. Background is reconstructed in feature space with the labeled regions as dictionary via sparse representation. Contrast map is enhanced by the error of original image and reconstructed background. Afterwards, rock is directly segmented by an auto threshold. Our method is simple yet efficient, primary results show that the proposed algorithm yields highly precise detection results, compared with current state-of-art edge-based algorithms.
   authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yuegang Fu, Wanqiang Qi
   link:
