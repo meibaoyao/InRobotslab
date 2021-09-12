@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "CVIR Lab at changchun university of science and technology."
 sitemap: false
-permalink: /allnews.html
+permalink: /cvirnews.html
 ---
 
 # News
