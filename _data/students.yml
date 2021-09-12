@@ -8,21 +8,21 @@
 #  education3:
 #  education4:
 
-- name: Yonggang Xiong
-  photo: rock.jpg
-  info: Master student
-  email: 
-  number_educ: 1
-  education1: Bsc, Changchun University of Science and Technology
-  
-- name: Hong Yang
-  photo: rock.jpg
-  info: Master student
-  email: 
-  number_educ: 1
-  education1: Bsc, Changchun University of Science and Technology
-
 - name: Zhenghao Xiao
+  photo: rock.jpg
+  info: Bsc student
+  email: 
+  number_educ: 0
+  education1: 
+  
+- name: Ruitao Zuo
+  photo: rock.jpg
+  info: Bsc student
+  email: 
+  number_educ: 0
+  education1: 
+
+- name: Chengfeng Mai
   photo: rock.jpg
   info: Bsc student
   email:
