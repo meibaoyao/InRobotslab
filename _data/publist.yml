@@ -9,7 +9,7 @@
   news2:
 
 - title: "Autonomous rock detection on mars through region contrast"
-  image: 5dof.png
+  image: rc.png
   description: In this paper, we present a new autonomous rock detection approach through region contrast. New method deals with this issue in region level, which will significantly reduce the computational cost. Only low-level features are measured and a more reliable method is further proposed by introducing spatial factor and background similarity to the region contrast. 
   authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yang Tian
   link:
