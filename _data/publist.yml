@@ -9,7 +9,7 @@
   news2:
 
 - title: "Autonomous rock detection on mars through region contrast"
-  image: TBG_SL.png
+  image: 5dof.png
   description: In this paper, we present a new autonomous rock detection approach through region contrast. Unlike current state-of-art pixel-level rock segmenting methods, new method deals with this issue in region level, which will significantly reduce the computational cost. Image is firstly splitted into homogeneous regions based on intensity information and spatial layout. Considering the high-water memory constraints of onboard flight processor, only low-level features, average intensity and variation of superpixel, are measured. Region contrast is derived as the integration of intensity contrast and smoothness measurement. Rocks are then segmented from the resulting contrast map by an adaptive threshold. Since the merely intensity-based method may cause false detection in background areas with different illuminations from surroundings, a more reliable method is further proposed by introducing spatial factor and background similarity to the region contrast. Spatial factor demonstrates the locality of contrast, while background similarity calculates the probability of each subregion belonging to background. Our method is efficient in dealing with large images and only few parameters are needed. Preliminary experimental results show that our algorithm outperforms edge-based methods in various grayscale rover images.
   authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yang Tian
   link:
@@ -19,7 +19,7 @@
   news2: 
 
 - title: "Safe Mars landing strategy: Towards lidar-based high altitude hazard detection"
-  image: TiNHigh.png
+  image: twostage.png
   description: This paper presents a high altitude hazard detection method for Mars landing. Towards safe landing requirements for future missions, hazard detection should be triggered as soon as possible. We therefore proposed a lidar based high altitude hazard detection approach, consisting of two main procedures, Terrain reconstruction and Hazard mapping. An interpolation based terrain reconstruction algorithm is proposed to model the datum surface of landing region.
   authors: Xueming Xiao, Meibao Yao, Hutao Cui, Yuegang Fu
   link:
