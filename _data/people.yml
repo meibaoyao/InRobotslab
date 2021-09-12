@@ -12,6 +12,20 @@
   number_educ: 1
   education1: Master with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>
 
+- name: Yonggang Xiong
+  photo: Jacky.jpg
+  info: Master student, started Sept 2021
+  email: @cust.edu.cn
+  number_educ: 1
+  education1: Bsc with Changchun University of Science and Technology
+
+- name: Hong Yang
+  photo: Jacky.jpg
+  info: Master student, started Sept 2021
+  email: @cust.edu.cn
+  number_educ: 1
+  education1: Bsc with Changchun University of Science and Technology
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
