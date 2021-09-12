@@ -4,7 +4,7 @@
   authors: Xueming Xiao, Hutao Cui, Yang Tian
   link:
     url: https://doi.org/10.1109/TAES.2015.140378
-    display: IEEE Transactions on Aerospace and Electronic Systems 51.4 (2015): 2864-2875.
+    display: IEEE Transactions on Aerospace and Electronic Systems 51, 4 (2015)
   highlight: 0
   news2:
 
@@ -14,7 +14,7 @@
   authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yang Tian
   link:
     url: https://doi.org/10.1016/j.asr.2017.04.028
-    display: Advances in Space Research 60.3 (2017): 626-635.
+    display: Advances in Space Research 60, 3 (2017)
   highlight: 1
   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
@@ -24,7 +24,7 @@
   authors: Xueming Xiao, Meibao Yao, Hutao Cui, Yuegang Fu
   link:
     url: https://doi.org/10.1016/j.asr.2019.01.005
-    display: Advances in Space Research 63.8 (2019): 2535-2550.
+    display: Advances in Space Research 63, 8 (2019)
   highlight: 1
 
 - title: "Auto rock detection via sparse-based background modeling for mars rover"
@@ -33,7 +33,7 @@
   authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yuegang Fu, Wanqiang Qi
   link:
     url: https://doi.org/10.1109/CEC.2018.8477665
-    display:  2018 IEEE Congress on Evolutionary Computation (CEC). IEEE
+    display:  IEEE Congress on Evolutionary Computation (CEC). IEEE, 2018
   highlight: 0
   news2: 
 
@@ -43,6 +43,6 @@
   authors: Guoqing Li, Yunhai Geng, Xueming Xiao
   link:
     url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
+    display:  Science China Information Sciences 61, 10 (2017)
   highlight: 0
   news2:
