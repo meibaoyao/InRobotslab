@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.1109/TAES.2015.140378
     display: IEEE Transactions on Aerospace and Electronic Systems 51, 4 (2015)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Autonomous rock detection on mars through region contrast"
@@ -16,7 +16,7 @@
     url: https://doi.org/10.1016/j.asr.2017.04.028
     display: Advances in Space Research 60, 3 (2017)
   highlight: 1
-  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
+  news2: 
 
 - title: "Safe Mars landing strategy: Towards lidar-based high altitude hazard detection"
   image: TiNHigh.png
@@ -34,7 +34,7 @@
   link:
     url: https://doi.org/10.1109/CEC.2018.8477665
     display:  IEEE Congress on Evolutionary Computation (CEC). IEEE, 2018
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: Multi-scale rock detection on Mars
