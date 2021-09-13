@@ -118,7 +118,7 @@ Jump to [staff](#staff), [Bachelor students](#bachelor-students), [Collaborators
   </ul>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+{% assign number_printed = number_printed | plus: 2 %}
 
 {% if even_odd == 1 %}
 </div>
