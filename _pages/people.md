@@ -82,13 +82,13 @@ Jump to [staff](#staff), [Bachelor students](#bachelor-students), [Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -126,7 +126,7 @@ Jump to [staff](#staff), [Bachelor students](#bachelor-students), [Collaborators
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
