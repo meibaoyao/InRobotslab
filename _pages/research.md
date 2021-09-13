@@ -18,9 +18,9 @@ Here are some themes and techniques that we currently work on:
 
 
 **Bionic optics and robot.** ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: right; margin: 0px"}
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+Questions of interest include: (i), How does the insect use compound eyes to perceive environmental information and how is this related to the model of visual neural network system? (ii), What is the decision mechanism of insects with compound eyes to avoid obstacles at a fast  spead? Is there a learning-based model to support such a fantastic flying skill? (iii), What can we learning from all living things to build better robots for human kind?
 
-We also have some open projects for Bsc students including object detection, recognition, tracking on UAV and UGV platfroms, and other creative programmes.
+We also have some Open Projects(OP) for Bsc students including object detection and segmentation(OP1), object tracking and avoidance(OP2) and non-contact Medical data measurement on UAV and UGV platfroms, as well as other creative programmes.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
