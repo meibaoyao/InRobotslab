@@ -88,7 +88,7 @@ Jump to [staff](#staff), [Bachelor students](#bachelor-students), [Collaborators
 <div class="row">
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -118,7 +118,7 @@ Jump to [staff](#staff), [Bachelor students](#bachelor-students), [Collaborators
   </ul>
 </div>
 
-{% assign number_printed = number_printed | plus: 2 %}
+{% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
 </div>
