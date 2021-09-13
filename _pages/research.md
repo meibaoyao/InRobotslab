@@ -14,7 +14,7 @@ Our goal is to develop techniques that enable us to address the questions we fin
 
 Here are some themes and techniques that we currently work on:
 
-**Planetary object detection for rover and non-target space object.** .
+**Object detection for planetary rover and obriter.** .
 
 
 **Bionic optics and robot.** ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: right; margin: 0px"}
