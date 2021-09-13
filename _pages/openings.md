@@ -13,22 +13,11 @@ permalink: /openings/
 
 We are always looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
-### Past open positions
-
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a lecturer or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application lecturer"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
 
 ### Master projects
-If you are interested in pursuing a Master degree at CUST, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+If you are interested in pursuing a Master degree at CUST, see [masterscust.oe](http://gd.cust.edu.cn/yjsyxk/yjszs/66543.htm#maker). We take master students if we get exceptional applicants (this usually means very good grades).
 ### Bsc students for CUST students 
-If you are a Bsc student at CUST looking for a Bsc project, contact me (or any group member) per email or stop by my office.
+If you are a Bsc student at CUST looking for a Bsc opening project, contact me (or any group member) per email or stop by my office.
 
 
 <figure>
