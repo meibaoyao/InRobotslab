@@ -82,7 +82,7 @@ Jump to [staff](#staff), [Bachelor students](#bachelor-students), [Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -126,7 +126,7 @@ Jump to [staff](#staff), [Bachelor students](#bachelor-students), [Collaborators
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
