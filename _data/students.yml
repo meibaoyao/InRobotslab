@@ -10,14 +10,14 @@
 
 - name: Zhenghao Xiao
   photo: rock.jpg
-  info: Working on open project 1: Object detection and segmentation
+  info: Working on open project 1 Object detection and segmentation
   email: 
   number_educ: 0
   education1: 
   
 - name: Ruitao Zuo
   photo: rock.jpg
-  info: Working on open project 3: Object tracking and avoidance
+  info: Working on open project 3 Object tracking and avoidance
   email: 
   number_educ: 0
   education1: 
@@ -31,7 +31,7 @@
 
 - name: Xingda Fu
   photo: rock.jpg
-  info: Working on open project 2: non-contact physiological data measurement
+  info: Working on open project 2 non-contact physiological data measurement
   email:
   number_educ: 
   education1:
