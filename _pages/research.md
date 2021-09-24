@@ -22,6 +22,6 @@ Questions of interest include: (i), How does the insect use compound eyes to per
 
 We also have some Open Projects(OP) for Bsc students including object detection and segmentation(OP1), object tracking and avoidance(OP2) and non-contact Medical data measurement on UAV and UGV platfroms, as well as other creative programmes.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/uav.jpg){: style="width: 35%; float: left; margin: 0px"}
-![]({{ site.url }}{{ site.baseurl }}/images/respic/tur.jpg){: style="width: 35%; float: right; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/uav.jpg){: style="width: 30%; float: left; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/tur.jpg){: style="width: 30%; float: right; margin: 0px"}
 ### ... and more.
