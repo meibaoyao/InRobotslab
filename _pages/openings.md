@@ -20,5 +20,5 @@ If you are a Bsc student at CUST looking for a Bsc opening project, contact me (
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/bsop.jpg" width="95%">
 </figure>
