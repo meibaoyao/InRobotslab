@@ -6,11 +6,13 @@ sitemap: false
 permalink: /group_meeting/
 ---
 
-## Group Meeting Schedule
+## Group Meeting and Journal Club Schedule
 
-Group meettings are held every other week.   
+Group meettings are held every other week and journal club is held every week.
 
-The normal time/place is Tues. 9:30-11:00 in 403 rom.  
+The normal time/place for Group meetings is Tues. 9:30-11:00 in 403 rom.
+
+The normal time/place for Journal Club is Mon.9:30-11:30 in 709 rom
 
 <b>Schedule is subject to change, please check frequently. </b>
 
