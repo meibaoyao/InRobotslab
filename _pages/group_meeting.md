@@ -1,7 +1,7 @@
 ---
 title: "Group meeting"
 layout: textlay
-excerpt: "Group metting"
+excerpt: "Group meeting"
 sitemap: false
 permalink: /group_meeting/
 ---
