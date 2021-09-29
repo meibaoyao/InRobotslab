@@ -5,6 +5,18 @@ excerpt: "Group metting"
 sitemap: false
 permalink: /group_meeting/
 ---
-**Digital Image Processing**, spring, 2020-2021<br>
-**Signal and system**, fall, 2019-2020<br>
-**Artificial intelligence and machine learning**, under construction
+
+## Group Meeting Schedule
+
+Group meettings are held every other week.   
+
+The normal time/place is Tues. 9:30-11:00 in 403 rom.  
+
+<b>Schedule is subject to change, please check frequently. </b>
+
+{% for meeting in site.data.group_meetings %}
+
+<b>{{ meeting.date}}</b>  {{ meeting.presenter}}
+<br /> 
+
+{% endfor %}
