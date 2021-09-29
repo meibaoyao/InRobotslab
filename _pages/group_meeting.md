@@ -28,7 +28,8 @@ The normal time/place for Journal Club is Mon.9:30-11:30 in 709 rom
 {% endfor %}
 
 </div>
-
+  
+<div class="col-sm-6 clearfix">
 ### Journal club
 {% for journal in site.data.journal_club %}
   <b>{{ journal.date}}</b>  {{ journal.presenter}}
