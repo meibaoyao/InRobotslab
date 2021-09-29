@@ -1,14 +1,14 @@
 - name: Yuegang Fu
   photo: ygfu.png
-  info: Professor, vice-principal
+  info: Professor, vice-principal of CUST
   email: fuyg@cust.edu.cn
   number_educ: 1
-  education1: PhD, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
+  education1: PhD, Changchun University of Science and Technology(CUST)  
 
 - name: Lei Zhang
   photo: lzhang.jpg
-  info: Professor, Director，started 2018
+  info: Professor, Deputy director of Key Laboratory of Ministry of Education
   email: zhangl@cust.edu.cn
   number_educ: 1
-  education1: PhD, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>
+  education1: PhD, Changchun University of Science and Technology(CUST)
 
