@@ -28,7 +28,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.alexcapshow.org/openings">openings</a> for more info
+  info: See <a href="http://www.alexcapshow.com/openings">openings</a> for more info
   email: alexcapshow@gmail.com
   number_educ: 0
   education1:
