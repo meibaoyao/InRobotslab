@@ -14,7 +14,7 @@ The normal time/place is Tues. 9:30-11:00 in 403 rom.
 
 <b>Schedule is subject to change, please check frequently. </b>
 
-{% for meeting in site.data.group_meetings %}
+{% for meeting in site.data.group_meeting %}
 
 <b>{{ meeting.date}}</b>  {{ meeting.presenter}}
 <br /> 
