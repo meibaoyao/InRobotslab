@@ -1,1 +1,14 @@
+- name: Yuegang Fu
+  photo: ygfu.png
+  info: Professor, vice-principal
+  email: fuyg@cust.edu.cn
+  number_educ: 1
+  education1: PhD, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
+
+- name: Lei Zhang
+  photo: lzhang.jpg
+  info: Professor, Director，started 2018
+  email: zhangl@cust.edu.cn
+  number_educ: 1
+  education1: PhD, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>
 
