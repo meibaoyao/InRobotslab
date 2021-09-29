@@ -6,9 +6,9 @@ sitemap: false
 permalink: /group_meeting/
 ---
 
-## Seminar and Journal Club Schedule
+## Group meeting and Journal Club Schedule
 
-Seminar is held every other week and journal club is held every week.
+Group meetings are held every other week and journal club is held every week.
 
 The normal time/place for Group meetings is Tues. 9:30-11:00 in 403 rom.
 
