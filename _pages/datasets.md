@@ -14,6 +14,6 @@ permalink: /datasets/
 
 #### Panoramic image segmentation dataset on Mars.
 
-<b>Description:</b> Code and data for panoramic Semantic segmentation on Mars.  
+<b>Description:</b> Code and data for panoramic semantic segmentation on Mars.  
 <b>Download:</b> coming soon.  
 <b>Reference:</b>  
