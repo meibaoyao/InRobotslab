@@ -1,4 +1,4 @@
-# Intelligent Robotics(Inbots) Lab Website
+# Intelligent Robotics(Inrobots) Lab Website
 
 
 This is the website of our academic research lab at Jilin University(Jlu).
