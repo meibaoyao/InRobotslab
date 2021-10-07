@@ -1,16 +1,16 @@
-- name: Xueming Xiao
+- name: Meibao Yao
   photo: xmxiao.png
-  info: Assistant professor, group leader, started Nov 2017
-  email: alexcapshow@cust.edu.cn
+  info: Assistant professor, lab leader, started Sep 2019
+  email: meibaoyao@jlu.edu.cn
   number_educ: 1
   education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
 
-- name: Boyu Lin
+- name: Haiqiang Liu
   photo: Jacky.jpg
-  info: Assistant professor, started Oct 2021
+  info: Phd student, started Oct 2020
   email: lby@cust.edu.cn
   number_educ: 1
-  education1: Master with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>
+  education1: Master with Jilin University
 
 - name: Yonggang Xiong
   photo: ygxiong.jpg
